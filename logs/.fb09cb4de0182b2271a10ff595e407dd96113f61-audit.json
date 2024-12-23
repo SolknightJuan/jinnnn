@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jin/Desktop/Code Things/logs/.fb09cb4de0182b2271a10ff595e407dd96113f61-audit.json",
+    "files": [
+        {
+            "date": 1734857619344,
+            "name": "/Users/jin/Desktop/Code Things/logs/twitter-2024-12-22.log",
+            "hash": "ffc84df3da8d437d2b7ef50eeac81c91e1d0d7e65f2144cbd0352b9968b993c3"
+        },
+        {
+            "date": 1734866133292,
+            "name": "/Users/jin/Desktop/Code Things/logs/twitter-2024-12-22.log.1",
+            "hash": "87737a29075df0b88c5766853dfe8ccb3813edb61f99e5d78b5dc0e15e975c1c"
+        },
+        {
+            "date": 1734876920990,
+            "name": "/Users/jin/Desktop/Code Things/logs/twitter-2024-12-22.log.2",
+            "hash": "4d16e703ed4a5719ecafddb3a189fe789fda387f86886771f9df35b02c73b825"
+        },
+        {
+            "date": 1734883479556,
+            "name": "/Users/jin/Desktop/Code Things/logs/twitter-2024-12-23.log",
+            "hash": "e0018a83bf6f83f16a053178dc12602352200af0f0f613e410f96dd79163ac51"
+        }
+    ],
+    "hashType": "sha256"
+}

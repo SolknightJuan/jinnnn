@@ -1,0 +1,620 @@
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 16:54:41"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 16:54:41"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 16:54:41"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 16:54:41"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 16:54:50"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 16:54:50"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 16:54:50"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 16:54:50"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 16:54:58"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 16:54:58"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 16:54:58"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 16:54:58"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 16:55:41"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 16:55:41"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 16:55:41"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 16:55:41"}
+{"component":"database","level":"info","message":"Setting channels for guild: 774236950327984141","timestamp":"2024-12-22 16:57:04","twitterChannelId":"774245873860739082","youtubeChannelId":"774242933435793427"}
+{"component":"database","level":"info","message":"Setting channels for guild: 774236950327984141","timestamp":"2024-12-22 16:57:04","twitterChannelId":"774245873860739082","youtubeChannelId":"774242933435793427"}
+{"changes":1,"component":"database","level":"info","message":"Channels set successfully for guild: 774236950327984141","timestamp":"2024-12-22 16:57:04"}
+{"changes":1,"component":"database","level":"info","message":"Channels set successfully for guild: 774236950327984141","timestamp":"2024-12-22 16:57:04"}
+{"component":"database","level":"info","message":"Adding Twitter account: stayc_official","timestamp":"2024-12-22 16:58:27"}
+{"component":"database","level":"info","message":"Adding Twitter account: stayc_official","timestamp":"2024-12-22 16:58:27"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: stayc_official","timestamp":"2024-12-22 16:58:27"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: stayc_official","timestamp":"2024-12-22 16:58:27"}
+{"component":"database","level":"info","message":"Adding Twitter account: we_","timestamp":"2024-12-22 16:58:52"}
+{"component":"database","level":"info","message":"Adding Twitter account: we_","timestamp":"2024-12-22 16:58:52"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: we_","timestamp":"2024-12-22 16:58:52"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: we_","timestamp":"2024-12-22 16:58:52"}
+{"component":"database","level":"info","message":"Removing Twitter account: we_","timestamp":"2024-12-22 16:59:03"}
+{"component":"database","level":"info","message":"Removing Twitter account: we_","timestamp":"2024-12-22 16:59:03"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account removed successfully: we_","timestamp":"2024-12-22 16:59:03"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account removed successfully: we_","timestamp":"2024-12-22 16:59:03"}
+{"component":"database","level":"info","message":"Adding Twitter account: we_nmixx","timestamp":"2024-12-22 16:59:20"}
+{"component":"database","level":"info","message":"Adding Twitter account: we_nmixx","timestamp":"2024-12-22 16:59:20"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: we_nmixx","timestamp":"2024-12-22 16:59:20"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: we_nmixx","timestamp":"2024-12-22 16:59:20"}
+{"component":"database","level":"info","message":"Adding Twitter account: coisini_isa","timestamp":"2024-12-22 17:01:07"}
+{"component":"database","level":"info","message":"Adding Twitter account: coisini_isa","timestamp":"2024-12-22 17:01:07"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: coisini_isa","timestamp":"2024-12-22 17:01:07"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: coisini_isa","timestamp":"2024-12-22 17:01:07"}
+{"component":"database","level":"info","message":"Adding Twitter account: purr_isa","timestamp":"2024-12-22 17:01:50"}
+{"component":"database","level":"info","message":"Adding Twitter account: purr_isa","timestamp":"2024-12-22 17:01:50"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: purr_isa","timestamp":"2024-12-22 17:01:50"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: purr_isa","timestamp":"2024-12-22 17:01:50"}
+{"component":"database","level":"info","message":"Adding Twitter account: strawbabbie_wy","timestamp":"2024-12-22 17:03:08"}
+{"component":"database","level":"info","message":"Adding Twitter account: strawbabbie_wy","timestamp":"2024-12-22 17:03:08"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: strawbabbie_wy","timestamp":"2024-12-22 17:03:08"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: strawbabbie_wy","timestamp":"2024-12-22 17:03:08"}
+{"component":"database","level":"info","message":"Adding Twitter account: jjang_milk","timestamp":"2024-12-22 17:03:44"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: jjang_milk","timestamp":"2024-12-22 17:03:44"}
+{"component":"database","level":"info","message":"Adding Twitter account: jjang_milk","timestamp":"2024-12-22 17:03:44"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: jjang_milk","timestamp":"2024-12-22 17:03:44"}
+{"component":"database","level":"info","message":"Adding Twitter account: aespa_official","timestamp":"2024-12-22 17:04:07"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: aespa_official","timestamp":"2024-12-22 17:04:07"}
+{"component":"database","level":"info","message":"Adding Twitter account: aespa_official","timestamp":"2024-12-22 17:04:07"}
+{"changes":0,"component":"database","level":"info","message":"Twitter account added successfully: aespa_official","timestamp":"2024-12-22 17:04:07"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:06:42"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:06:48"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:07:27"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:07:59"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:08:32"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:09:08"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:11:09"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:11:14"}
+{"component":"database","level":"info","message":"Adding Twitter account: ivestarship","timestamp":"2024-12-22 17:13:29"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: ivestarship","timestamp":"2024-12-22 17:13:29"}
+{"component":"database","level":"info","message":"Adding Twitter account: sunset_ge","timestamp":"2024-12-22 17:13:51"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: sunset_ge","timestamp":"2024-12-22 17:13:51"}
+{"component":"database","level":"info","message":"Adding Twitter account: sd_seeun","timestamp":"2024-12-22 17:14:10"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: sd_seeun","timestamp":"2024-12-22 17:14:10"}
+{"component":"database","level":"info","message":"Adding Twitter account: jellygaeri","timestamp":"2024-12-22 17:15:30"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: jellygaeri","timestamp":"2024-12-22 17:15:30"}
+{"component":"database","level":"info","message":"Adding Twitter account: cattitude0123","timestamp":"2024-12-22 17:16:06"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: cattitude0123","timestamp":"2024-12-22 17:16:06"}
+{"component":"database","level":"info","message":"Adding Twitter account: fluffy_eb","timestamp":"2024-12-22 17:16:20"}
+{"changes":1,"component":"database","level":"info","message":"Twitter account added successfully: fluffy_eb","timestamp":"2024-12-22 17:16:20"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UCEf_Bc-KVd7onSeifS3py9g","timestamp":"2024-12-22 17:37:01"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UCEf_Bc-KVd7onSeifS3py9g","timestamp":"2024-12-22 17:37:01"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UCod5V2dpnpJLklGvVOv5FcQ","timestamp":"2024-12-22 17:37:49"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UCod5V2dpnpJLklGvVOv5FcQ","timestamp":"2024-12-22 17:37:49"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:46:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:47:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:48:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:50:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:52:00"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:52:51"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:54:10"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:54:21"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:56:53"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:57:25"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:58:08"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:58:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:07"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 17:59:22"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:00:59"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UCnUAyD4t2LkvW68YrDh7fDg","timestamp":"2024-12-22 18:07:24"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UCnUAyD4t2LkvW68YrDh7fDg","timestamp":"2024-12-22 18:07:24"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:08:59"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UC5Wry_0lZAmPmexai2iW9JA","timestamp":"2024-12-22 18:09:50"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UC5Wry_0lZAmPmexai2iW9JA","timestamp":"2024-12-22 18:09:50"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:10:29"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:11:06"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UC-Fnix71vRP64WXeo0ikd0Q","timestamp":"2024-12-22 18:14:45"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UC-Fnix71vRP64WXeo0ikd0Q","timestamp":"2024-12-22 18:14:45"}
+{"component":"database","level":"info","message":"Setting channels for guild: 774236950327984141","timestamp":"2024-12-22 18:20:03","twitterChannelId":"774245873860739082","youtubeChannelId":"774245873860739082"}
+{"changes":1,"component":"database","level":"info","message":"Channels set successfully for guild: 774236950327984141","timestamp":"2024-12-22 18:20:03"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:51:06"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:51:15"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:56:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:57:18"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:57:44"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:58:27"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:59:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 18:59:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:13"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:41"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:00:44"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:01:01"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:02:43"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:02:51"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:02"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:16"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:36"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:03:56"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:04:18"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:04:53"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:05:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:06:20"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:04"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:33"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:07:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:08:14"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:09:01"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:06"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:26"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:42"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:10:45"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:11:34"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:12:21"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:12:32"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:13:02"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:13:30"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:15:19"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-22 19:16:26"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-22 19:16:26"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-22 19:16:26"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-22 19:16:26"}
+{"component":"database","level":"info","message":"Setting channels for guild: 774236950327984141","timestamp":"2024-12-22 19:16:44","twitterChannelId":"774245873860739082","youtubeChannelId":"774242933435793427"}
+{"changes":1,"channels":{"twitter":"774245873860739082","youtube":"774242933435793427"},"component":"database","level":"info","message":"Channels insertd successfully for guild: 774236950327984141","operation":"insert","timestamp":"2024-12-22 19:16:44"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UCod5V2dpnpJLklGvVOv5FcQ","timestamp":"2024-12-22 19:18:57"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UCod5V2dpnpJLklGvVOv5FcQ","timestamp":"2024-12-22 19:18:57"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UC9GtSLeksfK4yuJ_g1lgQbg","timestamp":"2024-12-22 19:19:39"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UC9GtSLeksfK4yuJ_g1lgQbg","timestamp":"2024-12-22 19:19:39"}
+{"component":"database","level":"info","message":"Adding YouTube channel: UC-Fnix71vRP64WXeo0ikd0Q","timestamp":"2024-12-22 19:20:24"}
+{"changes":1,"component":"database","level":"info","message":"YouTube channel added successfully: UC-Fnix71vRP64WXeo0ikd0Q","timestamp":"2024-12-22 19:20:24"}

@@ -1,0 +1,41 @@
+{
+  "name": "discord-social-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Twitter and YouTube notifications with dynamic account management",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "twitter",
+    "youtube",
+    "notifications"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "@npmcli/fs": "^3.1.0",
+    "axios": "^1.5.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.10",
+    "lru-cache": "^10.0.1",
+    "rimraf": "^5.0.5",
+    "sqlite3": "^5.1.6",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "overrides": {
+    "gauge": "^5.0.1",
+    "are-we-there-yet": "^4.0.1",
+    "npmlog": "^7.0.1"
+  }
+}

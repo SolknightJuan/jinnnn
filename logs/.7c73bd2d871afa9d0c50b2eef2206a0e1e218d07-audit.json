@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jin/Desktop/Code Things/logs/.7c73bd2d871afa9d0c50b2eef2206a0e1e218d07-audit.json",
+    "files": [
+        {
+            "date": 1734857619342,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-22.log",
+            "hash": "ac3dd130e74f7a97ced2f03519b6d894545122a9de8f606bdde9c7fa01c8743b"
+        },
+        {
+            "date": 1734866147580,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-22.log.1",
+            "hash": "54def6b2e4a4d16fd53b3df71429ebf499f3227296a60c61f5c7673ed81ebf9d"
+        },
+        {
+            "date": 1734872452434,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-22.log.2",
+            "hash": "ab9e0c56f8e81d8c0ce89ca9265ad01bf2bb97947a8736244a74d1cbf3d87054"
+        },
+        {
+            "date": 1734876018743,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-22.log.3",
+            "hash": "f944aa8906c6c22c91f4d34ea2066b032b5a6b495f30fe30eb1254b0430f2be5"
+        },
+        {
+            "date": 1734878715098,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-22.log.4",
+            "hash": "e8209f85599589d7408a5c16f2a6118fe4aeedba7e1714f9ba12f17a14474f65"
+        },
+        {
+            "date": 1734883479557,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-23.log",
+            "hash": "445df3c4ff58c4e2381ea831ac9c97f962b20b92171f66894a9ad12f94231127"
+        },
+        {
+            "date": 1734921921621,
+            "name": "/Users/jin/Desktop/Code Things/logs/error-2024-12-23.log.1",
+            "hash": "f9a6d58cee2ae87d2fcff71313d717eb9b757083d545dcb1e34ccaf1cf606aca"
+        }
+    ],
+    "hashType": "sha256"
+}

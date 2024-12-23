@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jin/Desktop/Code Things/logs/.594d1ac2355435710d8a33d4e4d8ba34a3d30896-audit.json",
+    "files": [
+        {
+            "date": 1734857619341,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log",
+            "hash": "4ffdd2536f53a91b172f55aa503c5442532665188c06f5f4b684ae6e3c8acc91"
+        },
+        {
+            "date": 1734866119774,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.1",
+            "hash": "8d1c86998107ea7837f1d59ac7dc0598d3584218cb62dc4d00ed61fb77e01f48"
+        },
+        {
+            "date": 1734866153445,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.2",
+            "hash": "308f947108ddf84fc92b47758a8954f970391eaf2514af810ff791da73dcdd75"
+        },
+        {
+            "date": 1734872422737,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.3",
+            "hash": "993cf344c654f43dc5a85d921499afeef090d5845cd3bcab5a9122435bdd538c"
+        },
+        {
+            "date": 1734875104170,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.4",
+            "hash": "30f2cf5783d1d062275fe3d5bc4073017c0d203dffe073aec4253e7a59c385dc"
+        },
+        {
+            "date": 1734876943001,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.5",
+            "hash": "cda7274e3041087e4795f6de0bb8b2e50fa8fdff73d7630f1e9d21890b9769d9"
+        },
+        {
+            "date": 1734879603901,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-22.log.6",
+            "hash": "6d433757f87171dbeacc6b5bc8e133f87eb609d047b73393b5c37f684cf99e5d"
+        },
+        {
+            "date": 1734883479548,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-23.log",
+            "hash": "6ee2750ce8f1c750ae89c765b7c3ae58a3cd27ae00ee934b82ccc07df02046fd"
+        },
+        {
+            "date": 1734919847451,
+            "name": "/Users/jin/Desktop/Code Things/logs/combined-2024-12-23.log.1",
+            "hash": "fa1d611166484eb19f140e5ac67ef30388d25f146a3253d68138ad210b282d66"
+        }
+    ],
+    "hashType": "sha256"
+}

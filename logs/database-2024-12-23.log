@@ -1,0 +1,8 @@
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Ensuring database directory exists: ./data","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Initializing database at: ./data/database.sqlite","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Creating database tables if they don't exist","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-23 10:10:47"}
+{"component":"database","level":"info","message":"Database initialized successfully","timestamp":"2024-12-23 10:10:47"}

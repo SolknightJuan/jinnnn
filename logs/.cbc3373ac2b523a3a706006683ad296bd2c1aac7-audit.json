@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jin/Desktop/Code Things/logs/.cbc3373ac2b523a3a706006683ad296bd2c1aac7-audit.json",
+    "files": [
+        {
+            "date": 1734857619344,
+            "name": "/Users/jin/Desktop/Code Things/logs/database-2024-12-22.log",
+            "hash": "9688dca7d052f329e99d9f82514f745efc79c568a6bf0eb43d7ec414cb7e4a5e"
+        },
+        {
+            "date": 1734919847454,
+            "name": "/Users/jin/Desktop/Code Things/logs/database-2024-12-23.log",
+            "hash": "3d61f7e3b07dadade5942918a6cd238fdfd85daae756043d72acbab261e3a62d"
+        }
+    ],
+    "hashType": "sha256"
+}

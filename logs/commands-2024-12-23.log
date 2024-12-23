@@ -1,0 +1,8 @@
+{"component":"commands","level":"info","message":"Loading commands into client","timestamp":"2024-12-23 10:10:47"}
+{"component":"commands","level":"info","message":"Loading commands into client","timestamp":"2024-12-23 10:10:47"}
+{"commandCount":3,"component":"commands","level":"info","message":"Started refreshing application (/) commands","timestamp":"2024-12-23 10:10:47"}
+{"commandCount":3,"component":"commands","level":"info","message":"Started refreshing application (/) commands","timestamp":"2024-12-23 10:10:47"}
+{"component":"commands","deployedCount":3,"level":"info","message":"Successfully reloaded application (/) commands","timestamp":"2024-12-23 10:10:47"}
+{"component":"commands","deployedCount":3,"level":"info","message":"Successfully reloaded application (/) commands","timestamp":"2024-12-23 10:10:47"}
+{"component":"commands","level":"info","message":"Command loading completed","timestamp":"2024-12-23 10:10:47","totalCommands":3}
+{"component":"commands","level":"info","message":"Command loading completed","timestamp":"2024-12-23 10:10:47","totalCommands":3}

@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jin/Desktop/Code Things/logs/.46236b90bdc15d68e2915ae5bb5a33b243156aa6-audit.json",
+    "files": [
+        {
+            "date": 1734857619345,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-22.log",
+            "hash": "aae823d16098384ca5510c3a637da9841643206e059608f8d4fd1e75a5df1806"
+        },
+        {
+            "date": 1734872424250,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-22.log.1",
+            "hash": "3b2ed551056517480b726bf1b7697eaff368aae16afd15f3fc78999a5592b4ff"
+        },
+        {
+            "date": 1734875152601,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-22.log.2",
+            "hash": "d420378b8e2fa4534bf67ef990100834f7f3c188578fdbb071875105b4940a19"
+        },
+        {
+            "date": 1734877855577,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-22.log.3",
+            "hash": "7b3e08ced9026e39516e3b31d2f31dadd55f9b900906a5543fd52c5e34ef1a30"
+        },
+        {
+            "date": 1734883479558,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-23.log",
+            "hash": "4362b7ed3dbb72a430133a5c5cd5be9080ebae4cdb0cd513a1290a2466e06337"
+        },
+        {
+            "date": 1734922800611,
+            "name": "/Users/jin/Desktop/Code Things/logs/youtube-2024-12-23.log.1",
+            "hash": "95f8d283369a0e961b471c52ab8d3a2330a05fa8d964ad0bfa7a13f924caf584"
+        }
+    ],
+    "hashType": "sha256"
+}
